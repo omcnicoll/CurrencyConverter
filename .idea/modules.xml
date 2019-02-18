@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OMStylightCurrencyConverter.iml" filepath="$PROJECT_DIR$/OMStylightCurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OMCurrencyConverter.iml" filepath="$PROJECT_DIR$/OMCurrencyConverter.iml" />
     </modules>
   </component>
 </project>

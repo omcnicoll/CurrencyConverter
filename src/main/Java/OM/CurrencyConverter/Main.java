@@ -1,4 +1,4 @@
-package OM.StylightCurrencyConverter;
+package OM.CurrencyConverter;
 
 import static spark.Spark.*;
 

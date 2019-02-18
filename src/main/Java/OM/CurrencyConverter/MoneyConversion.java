@@ -1,4 +1,4 @@
-package OM.StylightCurrencyConverter;
+package OM.CurrencyConverter;
 import org.javamoney.moneta.Money;
 import javax.money.MonetaryAmount;
 import javax.money.convert.*;
