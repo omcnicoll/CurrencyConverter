@@ -10,8 +10,13 @@ Build the project and run locally. Spark should run a server and listen to locah
 
 ### Existing routes
 /convert/dollar/*/to/euro
+
 /convert/dollar/*/to/yen
+
 /convert/euro/*/to/dollar
+
 /convert/euro/*/to/yen
+
 /convert/yen/*/to/dollar
+
 /convert/yen/*/to/euro
